@@ -1,0 +1,13 @@
+C:\Users\GUOYU\Desktop\NimPile\bin\Release\NimPile.exe.config
+C:\Users\GUOYU\Desktop\NimPile\bin\Release\NimPile.exe
+C:\Users\GUOYU\Desktop\NimPile\bin\Release\NimPile.pdb
+C:\Users\GUOYU\Desktop\NimPile\bin\Release\MaterialSkin.dll
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.csproj.AssemblyReference.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.NimPile.resources
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.Properties.Resources.resources
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.csproj.GenerateResource.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.csproj.CoreCompileInputs.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.csproj.CopyComplete
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.exe
+C:\Users\GUOYU\Desktop\NimPile\obj\Release\NimPile.pdb

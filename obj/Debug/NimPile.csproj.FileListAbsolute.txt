@@ -1,0 +1,13 @@
+C:\Users\GUOYU\Desktop\NimPile\bin\Debug\NimPile.exe.config
+C:\Users\GUOYU\Desktop\NimPile\bin\Debug\NimPile.exe
+C:\Users\GUOYU\Desktop\NimPile\bin\Debug\NimPile.pdb
+C:\Users\GUOYU\Desktop\NimPile\bin\Debug\MaterialSkin.dll
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.csproj.AssemblyReference.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.Properties.Resources.resources
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.csproj.GenerateResource.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.csproj.CoreCompileInputs.cache
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.csproj.CopyComplete
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.exe
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.pdb
+C:\Users\GUOYU\Desktop\NimPile\obj\Debug\NimPile.NimPile.resources
